@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shreya168sh
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Leearning
+- 👀 I’m a Machine Learning Engineer
 
 <!---
 Shreya168sh/Shreya168sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
